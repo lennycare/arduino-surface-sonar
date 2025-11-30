@@ -23,6 +23,12 @@ Assurez-vous que les composants sont correctement alimentés (5V et GND).
     *   `SDA` sur la broche `A4` de l'Arduino (ou `SDA` sur les cartes plus récentes).
     *   `SCL` sur la broche `A5` de l'Arduino (ou `SCL` sur les cartes plus récentes).
 
+## Schéma de Câblage
+
+Voici un exemple de schéma de câblage pour ce projet.
+
+![Schéma de câblage](images/circuit-diagram.png)
+
 ## Installation
 
 1.  **Bibliothèques Arduino :**
